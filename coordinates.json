@@ -1,0 +1,2998 @@
+{
+  "L 0 Noord-Zuid": [
+    {
+      "name": "L 0 Blok 8 Brussel Noord",
+      "lat": 50.861667,
+      "lon": 4.36105
+    },
+    {
+      "name": "L 0 Brussel Centraal",
+      "lat": 50.845056,
+      "lon": 4.356412
+    },
+    {
+      "name": "L 0 Brussel Noord Staken",
+      "lat": 50.855348,
+      "lon": 4.362939
+    },
+    {
+      "name": "L 0 Brussel Zuid",
+      "lat": 50.828779,
+      "lon": 4.32888
+    },
+    {
+      "name": "L 0 Brussel zuid Ingang",
+      "lat": 50.828934,
+      "lon": 4.328797
+    },
+    {
+      "name": "L 0 Kappelekerk Toegang",
+      "lat": 50.841758,
+      "lon": 4.349322
+    },
+    {
+      "name": "L 0 Station Brussel-Noord",
+      "lat": 50.860477,
+      "lon": 4.359469
+    },
+    {
+      "name": "L 0 Tuc Rail Fonsnylaan",
+      "lat": 50.8351,
+      "lon": 4.33702
+    }
+  ],
+  "L 10 Haven Zwijndrecht": [
+    {
+      "name": "Cit Techniekers",
+      "lat": 51.266239,
+      "lon": 4.2724
+    },
+    {
+      "name": "Koestraat Kallo",
+      "lat": 51.248751,
+      "lon": 4.2437
+    },
+    {
+      "name": "Pomphuis",
+      "lat": 51.258042,
+      "lon": 4.262895
+    },
+    {
+      "name": "Schoorhavenweg",
+      "lat": 51.251414,
+      "lon": 4.204556
+    },
+    {
+      "name": "Ingang Antigoon ES00",
+      "lat": 51.258204,
+      "lon": 4.263164
+    },
+    {
+      "name": "Antigoon ES01",
+      "lat": 51.265273,
+      "lon": 4.272818
+    },
+    {
+      "name": "Antigoon ES02/03",
+      "lat": 51.272931,
+      "lon": 4.278002
+    },
+    {
+      "name": "Antigoon ES04",
+      "lat": 51.280092,
+      "lon": 4.283656
+    },
+    {
+      "name": "Antigoon ES05",
+      "lat": 51.284124,
+      "lon": 4.284848
+    },
+    {
+      "name": "Antigoon ES06",
+      "lat": 51.287567,
+      "lon": 4.28842
+    },
+    {
+      "name": "Antigoon ES07",
+      "lat": 51.292391,
+      "lon": 4.291993
+    },
+    {
+      "name": "Antigoon ES08",
+      "lat": 51.303199,
+      "lon": 4.302333
+    },
+    {
+      "name": "Antigoon ES09",
+      "lat": 51.305835,
+      "lon": 4.307623
+    },
+    {
+      "name": "Antigoon ES10",
+      "lat": 51.30937,
+      "lon": 4.315966
+    },
+    {
+      "name": "Antigoon ES11",
+      "lat": 51.313753,
+      "lon": 4.324833
+    },
+    {
+      "name": "Antigoon ES12",
+      "lat": 51.316116,
+      "lon": 4.329983
+    },
+    {
+      "name": "Antigoon ES13",
+      "lat": 51.317304,
+      "lon": 4.334647
+    }
+  ],
+  "L 11 Zandvliet": [
+    {
+      "name": "L 11 Toegang brandweer",
+      "lat": 51.319052,
+      "lon": 4.348288
+    },
+    {
+      "name": "L 11 Werfkeet",
+      "lat": 51.366919,
+      "lon": 4.306878
+    },
+    {
+      "name": "L 11 OW 07 BASF",
+      "lat": 51.371505,
+      "lon": 4.289459
+    },
+    {
+      "name": "L 11 Seinen P-Q.9 en O-Q.9",
+      "lat": 51.373383,
+      "lon": 4.271479
+    },
+    {
+      "name": "L 11 Sein G-Q.9",
+      "lat": 51.371406,
+      "lon": 4.286705
+    }
+  ],
+  "L 122 Melle Geraardsbergen": [
+    {
+      "name": "L 122 Ow 34",
+      "lat": 50.893949,
+      "lon": 3.867337
+    },
+    {
+      "name": "L 122 Ow 52",
+      "lat": 50.794479,
+      "lon": 3.864726
+    },
+    {
+      "name": "L 122 Ow 53",
+      "lat": 50.78538,
+      "lon": 3.873368
+    },
+    {
+      "name": "L 122 Zottegem Koer",
+      "lat": 50.868398,
+      "lon": 3.815148
+    }
+  ],
+  "L 15 Antwerpen Hasselt": [
+    {
+      "name": "L15 OW 011",
+      "lat": 51.149747,
+      "lon": 4.521182
+    },
+    {
+      "name": "L15 OW 014",
+      "lat": 51.137813,
+      "lon": 4.54434
+    },
+    {
+      "name": "L15 OW 024",
+      "lat": 51.139114,
+      "lon": 4.572637
+    },
+    {
+      "name": "L15 OW 027",
+      "lat": 51.145077,
+      "lon": 4.59518
+    },
+    {
+      "name": "L15 OW 028",
+      "lat": 51.146294,
+      "lon": 4.599939
+    },
+    {
+      "name": "L15 OW 033",
+      "lat": 51.150916,
+      "lon": 4.618033
+    },
+    {
+      "name": "L15 OW 035",
+      "lat": 51.154597,
+      "lon": 4.632466
+    },
+    {
+      "name": "L15 OW 041",
+      "lat": 51.158878,
+      "lon": 4.654606
+    },
+    {
+      "name": "L15 OW 042",
+      "lat": 51.15946,
+      "lon": 4.662504
+    },
+    {
+      "name": "L15 OW 043",
+      "lat": 51.159808,
+      "lon": 4.667193
+    },
+    {
+      "name": "L15 OW 044",
+      "lat": 51.160101,
+      "lon": 4.671144
+    },
+    {
+      "name": "L15 OW 045",
+      "lat": 51.160409,
+      "lon": 4.675294
+    },
+    {
+      "name": "L15 OW 046",
+      "lat": 51.160768,
+      "lon": 4.680129
+    },
+    {
+      "name": "L15 OW 047",
+      "lat": 51.161715,
+      "lon": 4.692846
+    },
+    {
+      "name": "L15 OW 049",
+      "lat": 51.162968,
+      "lon": 4.709693
+    },
+    {
+      "name": "L15 OW 050",
+      "lat": 51.163712,
+      "lon": 4.719711
+    },
+    {
+      "name": "L15 OW 051",
+      "lat": 51.164342,
+      "lon": 4.728192
+    },
+    {
+      "name": "L15 OW 054",
+      "lat": 51.165671,
+      "lon": 4.746131
+    },
+    {
+      "name": "L15 OW 055",
+      "lat": 51.166372,
+      "lon": 4.755515
+    },
+    {
+      "name": "L15 OW 062",
+      "lat": 51.177975,
+      "lon": 4.820482
+    },
+    {
+      "name": "L15 OW 063",
+      "lat": 51.181864,
+      "lon": 4.830578
+    },
+    {
+      "name": "L15 OW 069",
+      "lat": 51.187543,
+      "lon": 4.837052
+    },
+    {
+      "name": "L15 OW 078",
+      "lat": 51.192554,
+      "lon": 5.126534
+    },
+    {
+      "name": "L15 OW 079",
+      "lat": 51.191312,
+      "lon": 5.118454
+    },
+    {
+      "name": "L15 OW 08",
+      "lat": 51.163157,
+      "lon": 4.495245
+    },
+    {
+      "name": "L15 OW 080",
+      "lat": 51.189038,
+      "lon": 5.105621
+    },
+    {
+      "name": "L15 OW 081",
+      "lat": 51.187082,
+      "lon": 5.094557
+    },
+    {
+      "name": "L15 OW 082",
+      "lat": 51.185514,
+      "lon": 5.085686
+    },
+    {
+      "name": "L15 OW 083",
+      "lat": 51.183997,
+      "lon": 5.077102
+    },
+    {
+      "name": "L15 OW 085",
+      "lat": 51.181476,
+      "lon": 5.062856
+    },
+    {
+      "name": "L15 OW 086",
+      "lat": 51.179423,
+      "lon": 5.051266
+    },
+    {
+      "name": "L15 OW 087",
+      "lat": 51.178015,
+      "lon": 5.043318
+    },
+    {
+      "name": "L15 OW 088",
+      "lat": 51.175692,
+      "lon": 5.029919
+    },
+    {
+      "name": "L15 OW 09",
+      "lat": 51.158239,
+      "lon": 4.504743
+    },
+    {
+      "name": "L15 OW 090",
+      "lat": 51.172139,
+      "lon": 5.009587
+    },
+    {
+      "name": "L15 OW 091",
+      "lat": 51.171254,
+      "lon": 5.004851
+    },
+    {
+      "name": "L15 OW 092",
+      "lat": 51.168852,
+      "lon": 4.98824
+    },
+    {
+      "name": "L15 OW 092 BIS",
+      "lat": 51.168197,
+      "lon": 4.98343
+    },
+    {
+      "name": "L15 OW 093",
+      "lat": 51.167868,
+      "lon": 4.970485
+    },
+    {
+      "name": "L15 OW 094",
+      "lat": 51.168542,
+      "lon": 4.96296
+    },
+    {
+      "name": "L15 OW 096",
+      "lat": 51.169964,
+      "lon": 4.947372
+    },
+    {
+      "name": "L15 OW 097",
+      "lat": 51.170635,
+      "lon": 4.94001
+    },
+    {
+      "name": "L15 OW 098",
+      "lat": 51.171211,
+      "lon": 4.933676
+    },
+    {
+      "name": "L15 OW 099",
+      "lat": 51.171944,
+      "lon": 4.92564
+    },
+    {
+      "name": "L15 OW 101",
+      "lat": 51.173555,
+      "lon": 4.907928
+    },
+    {
+      "name": "L15 OW 102",
+      "lat": 51.174013,
+      "lon": 4.902877
+    },
+    {
+      "name": "L15 OW 103",
+      "lat": 51.175108,
+      "lon": 4.890781
+    },
+    {
+      "name": "L15 OW 104",
+      "lat": 51.175918,
+      "lon": 4.881845
+    },
+    {
+      "name": "L15 OW 107",
+      "lat": 51.188771,
+      "lon": 4.839496
+    },
+    {
+      "name": "L15 OW 110",
+      "lat": 51.192747,
+      "lon": 5.130424
+    },
+    {
+      "name": "L15 OW 111",
+      "lat": 51.181938,
+      "lon": 5.142955
+    },
+    {
+      "name": "L15 OW 112",
+      "lat": 51.17217,
+      "lon": 5.158541
+    },
+    {
+      "name": "L15 OW 113",
+      "lat": 51.170237,
+      "lon": 5.162458
+    },
+    {
+      "name": "L15 OW 114",
+      "lat": 51.169163,
+      "lon": 5.164635
+    },
+    {
+      "name": "L15 OW 115",
+      "lat": 51.166512,
+      "lon": 5.170005
+    },
+    {
+      "name": "L15 OW 117",
+      "lat": 51.160206,
+      "lon": 5.182774
+    },
+    {
+      "name": "L15 OW 119",
+      "lat": 51.15346,
+      "lon": 5.196777
+    },
+    {
+      "name": "L15 OW 120",
+      "lat": 51.150189,
+      "lon": 5.203718
+    },
+    {
+      "name": "L15 OW 121",
+      "lat": 51.145299,
+      "lon": 5.214091
+    },
+    {
+      "name": "L15 OW 124",
+      "lat": 51.134073,
+      "lon": 5.237787
+    },
+    {
+      "name": "L15 OW 125",
+      "lat": 51.130254,
+      "lon": 5.244556
+    },
+    {
+      "name": "L15 OW 126",
+      "lat": 51.116018,
+      "lon": 5.258095
+    },
+    {
+      "name": "L15 OW 127",
+      "lat": 51.112685,
+      "lon": 5.256926
+    },
+    {
+      "name": "L15 OW 128",
+      "lat": 51.107383,
+      "lon": 5.246107
+    },
+    {
+      "name": "L15 OW 129",
+      "lat": 51.103058,
+      "lon": 5.238459
+    },
+    {
+      "name": "L15 OW 130",
+      "lat": 51.093771,
+      "lon": 5.235626
+    },
+    {
+      "name": "L15 OW 131",
+      "lat": 51.088428,
+      "lon": 5.234491
+    },
+    {
+      "name": "L15 OW 132",
+      "lat": 51.063794,
+      "lon": 5.22922
+    },
+    {
+      "name": "L15 OW 133",
+      "lat": 51.044039,
+      "lon": 5.252052
+    },
+    {
+      "name": "L15 OW 134",
+      "lat": 51.039847,
+      "lon": 5.265497
+    },
+    {
+      "name": "L15 OW 135",
+      "lat": 51.038783,
+      "lon": 5.275959
+    },
+    {
+      "name": "L15 OW 136",
+      "lat": 51.038219,
+      "lon": 5.281981
+    },
+    {
+      "name": "L15 OW 137",
+      "lat": 51.036511,
+      "lon": 5.30034
+    },
+    {
+      "name": "L15 OW 138",
+      "lat": 51.033653,
+      "lon": 5.330615
+    },
+    {
+      "name": "L15 OW 139",
+      "lat": 51.025253,
+      "lon": 5.351772
+    },
+    {
+      "name": "L15 OW 140",
+      "lat": 51.003371,
+      "lon": 5.3481
+    },
+    {
+      "name": "L15 OW 141",
+      "lat": 50.999475,
+      "lon": 5.348303
+    },
+    {
+      "name": "L15 OW 142",
+      "lat": 50.994734,
+      "lon": 5.34855
+    },
+    {
+      "name": "L15 OW 143",
+      "lat": 50.989488,
+      "lon": 5.348824
+    },
+    {
+      "name": "L15 OW 144",
+      "lat": 50.983333,
+      "lon": 5.349104
+    },
+    {
+      "name": "L15 OW 145",
+      "lat": 50.979489,
+      "lon": 5.348323
+    },
+    {
+      "name": "L15 OW 146",
+      "lat": 50.960933,
+      "lon": 5.340834
+    },
+    {
+      "name": "L15 OW 147",
+      "lat": 50.957529,
+      "lon": 5.337059
+    },
+    {
+      "name": "L15 OW 148",
+      "lat": 50.95518,
+      "lon": 5.334393
+    }
+  ],
+  "L 16 Lier Aarschot": [
+    {
+      "name": "L 16 OW 16",
+      "lat": 51.142131,
+      "lon": 4.592731
+    },
+    {
+      "name": "L 16 OW 17",
+      "lat": 51.139158,
+      "lon": 4.596716
+    },
+    {
+      "name": "L 16 OW 20",
+      "lat": 51.132674,
+      "lon": 4.605614
+    },
+    {
+      "name": "L 16 OW 21 Bis",
+      "lat": 51.128587,
+      "lon": 4.611898
+    },
+    {
+      "name": "L 16 Ow 23",
+      "lat": 51.122988,
+      "lon": 4.622372
+    },
+    {
+      "name": "L 16 Ow 26 station Berlaar",
+      "lat": 51.113199,
+      "lon": 4.639434
+    },
+    {
+      "name": "L 16 Ow 28",
+      "lat": 51.104236,
+      "lon": 4.654732
+    },
+    {
+      "name": "L 16 Ow 30",
+      "lat": 51.094851,
+      "lon": 4.672089
+    },
+    {
+      "name": "L 16 Ow 31 Bis",
+      "lat": 51.087544,
+      "lon": 4.684181
+    },
+    {
+      "name": "L 16 Ow 33",
+      "lat": 51.078942,
+      "lon": 4.700108
+    },
+    {
+      "name": "L 16 Ow 37",
+      "lat": 51.059256,
+      "lon": 4.734541
+    },
+    {
+      "name": "L 16 Ow 38",
+      "lat": 51.055594,
+      "lon": 4.741128
+    },
+    {
+      "name": "L 16 Ow 39",
+      "lat": 51.051635,
+      "lon": 4.748113
+    },
+    {
+      "name": "L 16 Ow 40",
+      "lat": 51.046911,
+      "lon": 4.756478
+    },
+    {
+      "name": "L 16 Ow 41",
+      "lat": 51.04289,
+      "lon": 4.763548
+    },
+    {
+      "name": "L 16 Ow 42",
+      "lat": 51.039026,
+      "lon": 4.770057
+    },
+    {
+      "name": "L 16 Ow 43",
+      "lat": 51.037188,
+      "lon": 4.77409
+    },
+    {
+      "name": "L 16 Ow 43 Bis",
+      "lat": 51.02969,
+      "lon": 4.786911
+    },
+    {
+      "name": "L 16 Ow 44",
+      "lat": 51.028346,
+      "lon": 4.789027
+    },
+    {
+      "name": "L 16 Ow 45",
+      "lat": 51.022886,
+      "lon": 4.799634
+    },
+    {
+      "name": "L 16 Ow 47",
+      "lat": 51.012434,
+      "lon": 4.817144
+    },
+    {
+      "name": "L 16 Ow 49",
+      "lat": 51.004004,
+      "lon": 4.831292
+    }
+  ],
+  "L 161 Brussel Namen": [
+    {
+      "name": "L 161 Baekenbos Stationstraat Hoeil",
+      "lat": 50.753077,
+      "lon": 4.481622
+    },
+    {
+      "name": "L 161 Baekenbos Stationstraat Hoeila",
+      "lat": 50.753077,
+      "lon": 4.481622
+    },
+    {
+      "name": "L 161 Hoeilaert Station",
+      "lat": 50.759367,
+      "lon": 4.4683
+    },
+    {
+      "name": "L 161 Station Groenendaal",
+      "lat": 50.76645,
+      "lon": 4.449377
+    },
+    {
+      "name": "L 161 Watermaal Elandstraat",
+      "lat": 50.803002,
+      "lon": 4.403162
+    },
+    {
+      "name": "L 161 Watermaal Station",
+      "lat": 50.809938,
+      "lon": 4.400086
+    }
+  ],
+  "L 204 Gent Zelzate": [
+    {
+      "name": "L 204 OW 01",
+      "lat": 51.075788,
+      "lon": 3.745964
+    },
+    {
+      "name": "L 204 H-F.13 en HX-F.13",
+      "lat": 51.072407,
+      "lon": 3.743508
+    },
+    {
+      "name": "L 204 OW 02",
+      "lat": 51.07817,
+      "lon": 3.748462
+    },
+    {
+      "name": "L 204 H-K.13 en GX-K.13",
+      "lat": 51.113071,
+      "lon": 3.766526
+    }
+  ],
+  "L 26 Schaarbeek Halle": [
+    {
+      "name": "L 26 Aardi Kant Huizinging",
+      "lat": 50.751219,
+      "lon": 4.26069
+    },
+    {
+      "name": "L 26 Cinquantenaire Av.Eug.PLASKY",
+      "lat": 50.850271,
+      "lon": 4.396357
+    },
+    {
+      "name": "L 26 Etterbeek Triomflaan",
+      "lat": 50.816817,
+      "lon": 4.39895
+    },
+    {
+      "name": "L 26 Halle Porseleinstraat Koer",
+      "lat": 50.742326,
+      "lon": 4.247402
+    },
+    {
+      "name": "L 26 Josaphat Schaarbeek",
+      "lat": 50.861633,
+      "lon": 4.396853
+    },
+    {
+      "name": "L 26 Kriekenbomenlaan Elsene",
+      "lat": 50.807434,
+      "lon": 4.396817
+    },
+    {
+      "name": "L 26 Lakenberg",
+      "lat": 50.756364,
+      "lon": 4.283402
+    },
+    {
+      "name": "L 26 Station Buizingen Parking",
+      "lat": 50.751455,
+      "lon": 4.259072
+    },
+    {
+      "name": "L 26 Station Moensberg",
+      "lat": 50.778537,
+      "lon": 4.331618
+    }
+  ],
+  "L 27 - 27B - 25 Kontich Mechelen": [
+    {
+      "name": "Oprijplaats Groenstraat (keet)",
+      "lat": 51.151333,
+      "lon": 4.908101
+    },
+    {
+      "name": "Oprijplaats Duivenstraat",
+      "lat": 51.0458,
+      "lon": 4.493177
+    },
+    {
+      "name": "Toegang seinen einde perron Mechelen-Nekkerspoel",
+      "lat": 51.037951,
+      "lon": 4.490804
+    },
+    {
+      "name": "Wissels 04AJ - 01AJ - 02AJ - 03AJ",
+      "lat": 51.03866,
+      "lon": 4.491945
+    }
+  ],
+  "L 27 Brussel Antwerpen": [
+    {
+      "name": "L 27 Bechem Y-stadion",
+      "lat": 51.189817,
+      "lon": 4.441069
+    },
+    {
+      "name": "L 27 Eppegem",
+      "lat": 50.95955,
+      "lon": 4.45888
+    },
+    {
+      "name": "L 27 Jubellaan Mechelen",
+      "lat": 51.011554,
+      "lon": 4.4767693
+    },
+    {
+      "name": "L 27 Kontich Duffelhoek",
+      "lat": 51.125817,
+      "lon": 4.48065
+    },
+    {
+      "name": "L 27 L 50 Masuiplein Schaarbeek",
+      "lat": 50.870478,
+      "lon": 4.364947
+    },
+    {
+      "name": "L 27 Mechelen Jubellaan",
+      "lat": 51.003151,
+      "lon": 4.477133
+    },
+    {
+      "name": "L 27 Station Mechelen-Nekkerspoel",
+      "lat": 51.029908,
+      "lon": 4.489353
+    },
+    {
+      "name": "L 27 T Schakelaar Kant Neckerspoel",
+      "lat": 51.038309,
+      "lon": 4.491702
+    },
+    {
+      "name": "L 27 Weerde Station",
+      "lat": 50.9766844,
+      "lon": 4.4708255
+    },
+    {
+      "name": "L 27 Y. Abeelstraat Mechelen",
+      "lat": 51.009093,
+      "lon": 4.474978
+    },
+    {
+      "name": "Wart bundel A1 antwerpen",
+      "lat": 51.286772,
+      "lon": 4.424858
+    }
+  ],
+  "L 29 Aarschot Tilburg": [
+    {
+      "name": "OW 70",
+      "lat": 51.189534,
+      "lon": 4.839036
+    },
+    {
+      "name": "OW 71",
+      "lat": 51.191964,
+      "lon": 4.844272
+    },
+    {
+      "name": "OW 75",
+      "lat": 51.213656,
+      "lon": 4.864471
+    },
+    {
+      "name": "OW 77",
+      "lat": 51.218443,
+      "lon": 4.869543
+    },
+    {
+      "name": "OW 79",
+      "lat": 51.223787,
+      "lon": 4.875212
+    },
+    {
+      "name": "OW 80",
+      "lat": 51.226268,
+      "lon": 4.87785
+    },
+    {
+      "name": "OW 82",
+      "lat": 51.238126,
+      "lon": 4.890454
+    },
+    {
+      "name": "OW 84",
+      "lat": 51.243512,
+      "lon": 4.896159
+    },
+    {
+      "name": "OW 85",
+      "lat": 51.246263,
+      "lon": 4.898604
+    },
+    {
+      "name": "OW 86",
+      "lat": 51.250292,
+      "lon": 4.90105
+    },
+    {
+      "name": "OW 88",
+      "lat": 51.254862,
+      "lon": 4.903357
+    },
+    {
+      "name": "OW 88 Bis",
+      "lat": 51.258183,
+      "lon": 4.905127
+    },
+    {
+      "name": "OW 89",
+      "lat": 51.262111,
+      "lon": 4.907153
+    },
+    {
+      "name": "OW 90",
+      "lat": 51.272046,
+      "lon": 4.912168
+    },
+    {
+      "name": "OW 91",
+      "lat": 51.290921,
+      "lon": 4.921799
+    },
+    {
+      "name": "OW 92 Bis",
+      "lat": 51.302,
+      "lon": 4.927395
+    },
+    {
+      "name": "OW 95",
+      "lat": 51.312924,
+      "lon": 4.932878
+    },
+    {
+      "name": "OW 96",
+      "lat": 51.318241,
+      "lon": 4.935611
+    },
+    {
+      "name": "OW 97",
+      "lat": 51.321643,
+      "lon": 4.937335
+    },
+    {
+      "name": "OW 98",
+      "lat": 51.324988,
+      "lon": 4.939044
+    }
+  ],
+  "L 35 Leuven Hasselt": [
+    {
+      "name": "L 35 Lci Leuven",
+      "lat": 50.884517,
+      "lon": 4.714786
+    },
+    {
+      "name": "L 35 Leuven Diestsesteenweg 3",
+      "lat": 50.884584,
+      "lon": 4.715133
+    },
+    {
+      "name": "L 35 Leuven Tivolistraat",
+      "lat": 50.868586,
+      "lon": 4.716682
+    },
+    {
+      "name": "L 35 Leuven Y Parkbrug",
+      "lat": 50.86509,
+      "lon": 4.712176
+    },
+    {
+      "name": "L 35 OW 106 Herseltsestwg. Aa",
+      "lat": 50.99687,
+      "lon": 4.8341
+    },
+    {
+      "name": "L 35 Ow 119",
+      "lat": 50.955921,
+      "lon": 4.74721
+    },
+    {
+      "name": "L 35 Ow 129",
+      "lat": 50.913848,
+      "lon": 4.720115
+    }
+  ],
+  "L 36 Brussel Luik": [
+    {
+      "name": "L 36 Erps-KWERPS Kerselarenlaan",
+      "lat": 50.896934,
+      "lon": 4.583467
+    },
+    {
+      "name": "L 36 Herent KP 25000",
+      "lat": 50.904151,
+      "lon": 4.688183
+    },
+    {
+      "name": "L 36 Herent Kp 26300",
+      "lat": 50.901501,
+      "lon": 4.702983
+    },
+    {
+      "name": "L 36 Herent Station",
+      "lat": 50.903317,
+      "lon": 4.67345
+    },
+    {
+      "name": "L 36 Neerijsestraat 16 Veltem",
+      "lat": 50.900865,
+      "lon": 4.6414827
+    },
+    {
+      "name": "L 36 Rijkestraat 16",
+      "lat": 50.901332,
+      "lon": 4.64035
+    },
+    {
+      "name": "L 36 Stationsstr & Rijkestr Veltem",
+      "lat": 50.900579,
+      "lon": 4.631884
+    }
+  ],
+  "L 50 Brussel Gent": [
+    {
+      "name": "L 50 Bergensesteenweg",
+      "lat": 50.818037,
+      "lon": 4.291596
+    },
+    {
+      "name": "L 50 Denderleeuw",
+      "lat": 50.885534,
+      "lon": 4.08405
+    },
+    {
+      "name": "L 50 Dilbeek Station",
+      "lat": 50.8664965,
+      "lon": 4.2448858
+    },
+    {
+      "name": "L 50 Groot-bijgaarden",
+      "lat": 50.868467,
+      "lon": 4.27405
+    },
+    {
+      "name": "L 50 L 50A Twee Bruggen Gent",
+      "lat": 51.031216,
+      "lon": 3.730163
+    },
+    {
+      "name": "L 50 Melle Kouterree H-T.6",
+      "lat": 50.995849,
+      "lon": 3.811573
+    },
+    {
+      "name": "L 50 Ow 12",
+      "lat": 50.964769,
+      "lon": 3.997153
+    },
+    {
+      "name": "L 50 OW 14 Ganshoren",
+      "lat": 50.878067,
+      "lon": 4.300867
+    },
+    {
+      "name": "L 50 Ow 15",
+      "lat": 50.969917,
+      "lon": 3.986954
+    },
+    {
+      "name": "L 50 Ow 18",
+      "lat": 50.971913,
+      "lon": 3.983077
+    },
+    {
+      "name": "L 50 Ow 24",
+      "lat": 50.98293,
+      "lon": 3.962272
+    },
+    {
+      "name": "L 50 Ow 25",
+      "lat": 50.98413,
+      "lon": 3.958215
+    },
+    {
+      "name": "L 50 Ow 27",
+      "lat": 50.991596,
+      "lon": 3.947008
+    },
+    {
+      "name": "L 50 Ow 6",
+      "lat": 50.953706,
+      "lon": 4.017999
+    },
+    {
+      "name": "L 50 St. Martens-Bodegem Station",
+      "lat": 50.867101,
+      "lon": 4.206233
+    },
+    {
+      "name": "L 50 St-Agatha-Berchem Station",
+      "lat": 50.872664,
+      "lon": 4.289346
+    },
+    {
+      "name": "L 50 Station Ternat",
+      "lat": 50.874467,
+      "lon": 4.164548
+    },
+    {
+      "name": "L 50 Ternat Hopstraat",
+      "lat": 50.882234,
+      "lon": 4.107417
+    },
+    {
+      "name": "L 50 Vertakking Meulewijk",
+      "lat": 50.993428,
+      "lon": 3.812107
+    },
+    {
+      "name": "L 50",
+      "lat": 50.899484,
+      "lon": 4.06175
+    }
+  ],
+  "L 50A Brussel Oostende": [
+    {
+      "name": "L 50A Asselsstraat Drongen Aardinge",
+      "lat": 51.045348,
+      "lon": 3.665188
+    },
+    {
+      "name": "L 50A Bellem",
+      "lat": 51.081623,
+      "lon": 3.497883
+    },
+    {
+      "name": "L 50A Bvl.18/53 En 18/54",
+      "lat": 50.879851,
+      "lon": 4.11805
+    },
+    {
+      "name": "L 50A Dilbeek Rvp Poverstraat",
+      "lat": 50.824967,
+      "lon": 4.239417
+    },
+    {
+      "name": "L 50A Drongen Elshout",
+      "lat": 51.052234,
+      "lon": 3.6329
+    },
+    {
+      "name": "L 50A G-I.7",
+      "lat": 51.189991,
+      "lon": 3.221381
+    },
+    {
+      "name": "L 50A Hansbeke L-U.6 & LX-U.6",
+      "lat": 51.070128,
+      "lon": 3.550807
+    },
+    {
+      "name": "L 50A hansbeke Station",
+      "lat": 51.072717,
+      "lon": 3.53725
+    },
+    {
+      "name": "L 50A Heistraat Y Lombeek",
+      "lat": 50.868941,
+      "lon": 4.141608
+    },
+    {
+      "name": "L 50A Jabbeke Bekedijkstraat Ow82",
+      "lat": 51.197951,
+      "lon": 3.0674
+    },
+    {
+      "name": "L 50A Kippendonkstraat Bellem",
+      "lat": 51.0797667,
+      "lon": 3.5065679
+    },
+    {
+      "name": "L 50A Landegem Wildedreef",
+      "lat": 51.062034,
+      "lon": 3.5884
+    },
+    {
+      "name": "L 50A Ondehoudspost Oostende",
+      "lat": 51.219175,
+      "lon": 2.935041
+    },
+    {
+      "name": "L 50A Oprijplaats Kwaadestraat",
+      "lat": 51.163022,
+      "lon": 3.23866
+    },
+    {
+      "name": "L 50A Ow Ternat Dahlialaan",
+      "lat": 50.875301,
+      "lon": 4.126126
+    },
+    {
+      "name": "L 50A Station Maria-aalter",
+      "lat": 51.107134,
+      "lon": 3.387583
+    },
+    {
+      "name": "L 50A Steenbrugge",
+      "lat": 51.177223,
+      "lon": 3.231639
+    },
+    {
+      "name": "L 50A Ternat Vianestraat",
+      "lat": 50.865001,
+      "lon": 4.14875
+    },
+    {
+      "name": "L 50A Beernem G-Q.7 GX-Q.7",
+      "lat": 51.133288,
+      "lon": 3.314659
+    },
+    {
+      "name": "L 50A Oostkamp Stuivenberg Wart",
+      "lat": 51.149976,
+      "lon": 3.266425
+    },
+    {
+      "name": "L 50A Tiengemeten CX-Q.7",
+      "lat": 51.126381,
+      "lon": 3.33317
+    },
+    {
+      "name": "L 50A Vianestraat Ternat",
+      "lat": 50.863458,
+      "lon": 4.155087
+    },
+    {
+      "name": "L 50A Vijverstraat Beernem",
+      "lat": 51.1203602,
+      "lon": 3.3510706
+    },
+    {
+      "name": "L 50A Wildekouter",
+      "lat": 51.060842,
+      "lon": 3.589947
+    },
+    {
+      "name": "L 50A Wissels Landegem Kant FR",
+      "lat": 51.068509,
+      "lon": 3.55844
+    },
+    {
+      "name": "L 50A Sp B En 50A Kant FR",
+      "lat": 51.16615,
+      "lon": 3.238827
+    },
+    {
+      "name": "L 50A Toegang Halewijnstationstraat",
+      "lat": 51.056082,
+      "lon": 3.613349
+    },
+    {
+      "name": "L 50A AW 25U en 24U",
+      "lat": 51.068645,
+      "lon": 3.55768
+    },
+    {
+      "name": "L 50A Seinen MX-N.6 en N-N.6",
+      "lat": 51.045286,
+      "lon": 3.665133
+    }
+  ],
+  "L 51 Brugge Blankenberge": [
+    {
+      "name": "L 51 Ow 38L51 Ow 38",
+      "lat": 51.286217,
+      "lon": 3.173583
+    },
+    {
+      "name": "L 51 Sein CW-7 Ap 106557",
+      "lat": 51.307684,
+      "lon": 3.14025
+    },
+    {
+      "name": "L 51 Sein O-U 7  Ap 98900",
+      "lat": 51.251451,
+      "lon": 3.204267
+    }
+  ],
+  "L 52 Antwerpen Dendermonde": [
+    {
+      "name": "L 52 Antwerpsestraat",
+      "lat": 51.098851,
+      "lon": 4.367033
+    },
+    {
+      "name": "L 52 Langelei",
+      "lat": 51.096951,
+      "lon": 4.364467
+    },
+    {
+      "name": "L 52 Langelei Boom",
+      "lat": 51.096401,
+      "lon": 4.365583
+    },
+    {
+      "name": "L 52 Scheldeweg Boom",
+      "lat": 51.098984,
+      "lon": 4.363267
+    },
+    {
+      "name": "L 52 WALENHOF Niel",
+      "lat": 51.103384,
+      "lon": 4.355217
+    }
+  ],
+  "L 53 Mechelen Leuven": [
+    {
+      "name": "L 53 OW 8",
+      "lat": 50.997832,
+      "lon": 4.537557
+    },
+    {
+      "name": "L 53 OW 9",
+      "lat": 50.99344,
+      "lon": 4.547593
+    },
+    {
+      "name": "L 53 OW 10",
+      "lat": 50.991353,
+      "lon": 4.552357
+    },
+    {
+      "name": "L 53 OW 11",
+      "lat": 50.989023,
+      "lon": 4.557625
+    },
+    {
+      "name": "L 53 OW 13",
+      "lat": 50.98391,
+      "lon": 4.56934
+    },
+    {
+      "name": "L 53 OW 14",
+      "lat": 50.982295,
+      "lon": 4.573105
+    },
+    {
+      "name": "L 53 OW 15",
+      "lat": 50.976403,
+      "lon": 4.586534
+    },
+    {
+      "name": "L 53 OW 18",
+      "lat": 50.966516,
+      "lon": 4.612469
+    },
+    {
+      "name": "L 53 fiets OW 21",
+      "lat": 50.962792,
+      "lon": 4.627225
+    },
+    {
+      "name": "L 53 OW 23",
+      "lat": 50.96032,
+      "lon": 4.633916
+    },
+    {
+      "name": "L 53 OW 24 Hambos",
+      "lat": 50.957993,
+      "lon": 4.638823
+    },
+    {
+      "name": "L 53 OW 25",
+      "lat": 50.955631,
+      "lon": 4.643136
+    },
+    {
+      "name": "L 53 OW 26",
+      "lat": 50.948372,
+      "lon": 4.656188
+    },
+    {
+      "name": "L 53 OW 27",
+      "lat": 50.943944,
+      "lon": 4.664028
+    },
+    {
+      "name": "L 53 OW 29",
+      "lat": 50.936724,
+      "lon": 4.676893
+    },
+    {
+      "name": "L 53 OW 30",
+      "lat": 50.929258,
+      "lon": 4.690212
+    },
+    {
+      "name": "L 53 OW 31",
+      "lat": 50.926758,
+      "lon": 4.694626
+    },
+    {
+      "name": "L 53 OW 32",
+      "lat": 50.92501,
+      "lon": 4.697787
+    },
+    {
+      "name": "L 53 OW 33 Wijgmaal",
+      "lat": 50.922355,
+      "lon": 4.701994
+    },
+    {
+      "name": "L 53 Y Dijlebrug",
+      "lat": 50.904423,
+      "lon": 4.710121
+    }
+  ],
+  "L 53 Schellebelle Mechelen": [
+    {
+      "name": "L 53 Bankstraat (Hombeek) Mechelen",
+      "lat": 51.013659,
+      "lon": 4.443152
+    },
+    {
+      "name": "L 53 L 54 Heike Hombeek (Mechelen)",
+      "lat": 51.013471,
+      "lon": 4.417648
+    },
+    {
+      "name": "L 53 Londerzeel Station",
+      "lat": 51.008967,
+      "lon": 4.298567
+    },
+    {
+      "name": "L 53 Smisstraat Mechelen",
+      "lat": 51.019072,
+      "lon": 4.49639
+    },
+    {
+      "name": "L 53 OW 79",
+      "lat": 51.00276,
+      "lon": 3.935161
+    },
+    {
+      "name": "L 53 OW 78",
+      "lat": 51.002528,
+      "lon": 3.943807
+    },
+    {
+      "name": "L 53 OW 76",
+      "lat": 51.002157,
+      "lon": 3.958331
+    },
+    {
+      "name": "L 53 OW 75 Station Wichelen",
+      "lat": 51.001911,
+      "lon": 3.96921
+    },
+    {
+      "name": "L 53 OW 73",
+      "lat": 51.001527,
+      "lon": 3.983747
+    },
+    {
+      "name": "L 53 OW 71",
+      "lat": 51.001322,
+      "lon": 3.991757
+    },
+    {
+      "name": "L 53 Station Schoonaarde",
+      "lat": 51.003724,
+      "lon": 4.011277
+    },
+    {
+      "name": "L 53 OW 68",
+      "lat": 51.003994,
+      "lon": 4.015121
+    },
+    {
+      "name": "L 53 OW 67",
+      "lat": 51.006717,
+      "lon": 4.027227
+    },
+    {
+      "name": "L 53 OW 66",
+      "lat": 51.008305,
+      "lon": 4.034153
+    },
+    {
+      "name": "L 53 OW 65",
+      "lat": 51.011147,
+      "lon": 4.046634
+    },
+    {
+      "name": "L 53 OW 64",
+      "lat": 51.013629,
+      "lon": 4.057487
+    },
+    {
+      "name": "L 53 OW 63",
+      "lat": 51.015287,
+      "lon": 4.064741
+    },
+    {
+      "name": "L 53 OW 62",
+      "lat": 51.019823,
+      "lon": 4.084922
+    },
+    {
+      "name": "L 53 OW 61",
+      "lat": 51.021765,
+      "lon": 4.093832
+    },
+    {
+      "name": "L 53 OW 59",
+      "lat": 51.023107,
+      "lon": 4.114945
+    },
+    {
+      "name": "L 53 OW 54",
+      "lat": 51.022712,
+      "lon": 4.119211
+    },
+    {
+      "name": "L 53 OW 52",
+      "lat": 51.021667,
+      "lon": 4.130035
+    },
+    {
+      "name": "L 53 OW 49",
+      "lat": 51.019499,
+      "lon": 4.152824
+    },
+    {
+      "name": "L 53 OW 48",
+      "lat": 51.017901,
+      "lon": 4.176833
+    },
+    {
+      "name": "L 53 OW 45",
+      "lat": 51.01788,
+      "lon": 4.176857
+    },
+    {
+      "name": "L 53 OW 43",
+      "lat": 51.016962,
+      "lon": 4.191124
+    },
+    {
+      "name": "L 53 OW 42",
+      "lat": 51.016223,
+      "lon": 4.201931
+    },
+    {
+      "name": "L 53 OW 40",
+      "lat": 51.014424,
+      "lon": 4.228579
+    },
+    {
+      "name": "L 53 OW 38",
+      "lat": 51.013428,
+      "lon": 4.248799
+    },
+    {
+      "name": "L 53 OW 36",
+      "lat": 51.011743,
+      "lon": 4.279726
+    },
+    {
+      "name": "L 53 OW 35",
+      "lat": 51.010676,
+      "lon": 4.287499
+    },
+    {
+      "name": "L 53 OW 34 Bis",
+      "lat": 51.009091,
+      "lon": 4.299132
+    }
+  ],
+  "L 54 Mechelen Terneuzen": [
+    {
+      "name": "L 54 0w 23a",
+      "lat": 51.077851,
+      "lon": 4.280567
+    },
+    {
+      "name": "L 54 Ow 17 Bis",
+      "lat": 51.067373,
+      "lon": 4.340973
+    },
+    {
+      "name": "L 54 Ow 17 C",
+      "lat": 51.068211,
+      "lon": 4.329787
+    },
+    {
+      "name": "L 54 Ow 18",
+      "lat": 51.068466,
+      "lon": 4.324562
+    },
+    {
+      "name": "L 54 Ow 21",
+      "lat": 51.073184,
+      "lon": 4.3009
+    },
+    {
+      "name": "L 54 ow 22",
+      "lat": 51.073701,
+      "lon": 4.294617
+    },
+    {
+      "name": "L 54 Ow 23",
+      "lat": 51.075701,
+      "lon": 4.289583
+    },
+    {
+      "name": "L 54 Ow 24",
+      "lat": 51.079017,
+      "lon": 4.277517
+    },
+    {
+      "name": "L 54 Ow 25",
+      "lat": 51.079734,
+      "lon": 4.2759
+    },
+    {
+      "name": "L 54 Ow 26",
+      "lat": 51.082667,
+      "lon": 4.2695
+    },
+    {
+      "name": "L 54 Puurs Station",
+      "lat": 51.076867,
+      "lon": 4.283517
+    },
+    {
+      "name": "L 54 Tuc Temse",
+      "lat": 51.135818,
+      "lon": 4.195235
+    },
+    {
+      "name": "L 54 Willebroek Brug",
+      "lat": 51.065622,
+      "lon": 4.3679
+    },
+    {
+      "name": "L 54 Willebroek Tuc",
+      "lat": 51.066847,
+      "lon": 4.356774
+    }
+  ],
+  "L 58 Gent Eeklo": [
+    {
+      "name": "L 58 Ow 15",
+      "lat": 51.073209,
+      "lon": 3.731189
+    },
+    {
+      "name": "L 58 Ow 16",
+      "lat": 51.072993,
+      "lon": 3.727832
+    },
+    {
+      "name": "L 58 Ow 17",
+      "lat": 51.072912,
+      "lon": 3.726456
+    },
+    {
+      "name": "L 58 Ow 17 Bis",
+      "lat": 51.07574,
+      "lon": 3.716172
+    },
+    {
+      "name": "L 58 Ringvaart1",
+      "lat": 51.096924,
+      "lon": 3.716312
+    },
+    {
+      "name": "L 58 Wondelgem Station",
+      "lat": 51.089617,
+      "lon": 3.719533
+    }
+  ],
+  "L 59 Antwerpen Gent": [
+    {
+      "name": "L 59 Bundel Gent",
+      "lat": 51.073724,
+      "lon": 3.745288
+    },
+    {
+      "name": "L 59 Dampoort",
+      "lat": 51.074933,
+      "lon": 3.746319
+    },
+    {
+      "name": "L 59 Gent Zeeh- Containerpark",
+      "lat": 51.077751,
+      "lon": 3.755383
+    },
+    {
+      "name": "L 59 Grote Heimelinkstr St-Niklaas",
+      "lat": 51.178034,
+      "lon": 4.162783
+    },
+    {
+      "name": "L 59 Hotel Beveren Van Der Valk",
+      "lat": 51.197818,
+      "lon": 4.223942
+    },
+    {
+      "name": "L 59 Ketshage",
+      "lat": 51.068478,
+      "lon": 3.785623
+    },
+    {
+      "name": "L 59 kP 52",
+      "lat": 51.069933,
+      "lon": 3.776353
+    },
+    {
+      "name": "L 59 Lokeren Koer Pijlstraat",
+      "lat": 51.117734,
+      "lon": 4.007933
+    },
+    {
+      "name": "L 59 Oostakker lourdes",
+      "lat": 51.077227,
+      "lon": 3.759047
+    },
+    {
+      "name": "L 59 Ow 11",
+      "lat": 51.210013,
+      "lon": 4.279667
+    },
+    {
+      "name": "L 59 Ow 12",
+      "lat": 51.209351,
+      "lon": 4.273325
+    },
+    {
+      "name": "L 59 Ow 17",
+      "lat": 51.202566,
+      "lon": 4.241111
+    },
+    {
+      "name": "L 59 Ow 21",
+      "lat": 51.196129,
+      "lon": 4.218424
+    },
+    {
+      "name": "L 59 Ow 23",
+      "lat": 51.190766,
+      "lon": 4.201644
+    },
+    {
+      "name": "L 59 Ow 25",
+      "lat": 51.185381,
+      "lon": 4.1855
+    },
+    {
+      "name": "L 59 Ow 26",
+      "lat": 51.180712,
+      "lon": 4.170814
+    },
+    {
+      "name": "L 59 Ow 35",
+      "lat": 51.158569,
+      "lon": 4.109353
+    },
+    {
+      "name": "L 59 Ow 38",
+      "lat": 51.150581,
+      "lon": 4.088297
+    },
+    {
+      "name": "L 59 OW 40",
+      "lat": 51.149098,
+      "lon": 4.084043
+    },
+    {
+      "name": "L 59 OW 41",
+      "lat": 51.147456,
+      "lon": 4.07957
+    },
+    {
+      "name": "L 59 Ow 42",
+      "lat": 51.143077,
+      "lon": 4.06752
+    },
+    {
+      "name": "L 59 Ow 44 Vortekoestraat",
+      "lat": 51.13217,
+      "lon": 4.042232
+    },
+    {
+      "name": "L 59 Ow 47",
+      "lat": 51.126261,
+      "lon": 4.028847
+    },
+    {
+      "name": "L 59 OW 57 Eekstraat",
+      "lat": 51.099477,
+      "lon": 3.951808
+    },
+    {
+      "name": "L 59 Sein D-I,19",
+      "lat": 51.102846,
+      "lon": 3.969274
+    },
+    {
+      "name": "L 59 OW 58 Bormtestraat",
+      "lat": 51.098753,
+      "lon": 3.947413
+    },
+    {
+      "name": "L 59 OW 60 Nieuwe Molenstraat",
+      "lat": 51.093309,
+      "lon": 3.916287
+    },
+    {
+      "name": "L 59 Ow 61",
+      "lat": 51.09191,
+      "lon": 3.908229
+    },
+    {
+      "name": "L 59 OW 65 Beerveldsebaan",
+      "lat": 51.087367,
+      "lon": 3.879958
+    },
+    {
+      "name": "L 59 Ow 67",
+      "lat": 51.084059,
+      "lon": 3.863691
+    },
+    {
+      "name": "L 59 OW 71",
+      "lat": 51.078273,
+      "lon": 3.835077
+    },
+    {
+      "name": "L 59 Ow 72",
+      "lat": 51.0766,
+      "lon": 3.828756
+    },
+    {
+      "name": "L 59 Ow 73",
+      "lat": 51.075,
+      "lon": 3.822363
+    },
+    {
+      "name": "L 59 Ow 74",
+      "lat": 51.072637,
+      "lon": 3.811432
+    },
+    {
+      "name": "L 59 Ow 76",
+      "lat": 51.069834,
+      "lon": 3.7993
+    },
+    {
+      "name": "L 59 Schuurstraat St Amandsberg",
+      "lat": 51.069957,
+      "lon": 3.776403
+    },
+    {
+      "name": "L 59 Station Beveren",
+      "lat": 51.208811,
+      "lon": 4.261498
+    },
+    {
+      "name": "L 59 Station Sint-Niklaas",
+      "lat": 51.17097,
+      "lon": 4.143562
+    },
+    {
+      "name": "L 59 Temse",
+      "lat": 51.135012,
+      "lon": 4.195708
+    },
+    {
+      "name": "L 59 Kennedytunnel Antwerpen Zuid",
+      "lat": 51.200285,
+      "lon": 4.38965
+    },
+    {
+      "name": "L 59 Kennedytunnel Zwijdrecht",
+      "lat": 51.213763,
+      "lon": 4.365071
+    }
+  ],
+  "L 60 Brussel Dendermonde": [
+    {
+      "name": "L 60 Mollem Station",
+      "lat": 50.932081,
+      "lon": 4.215596
+    },
+    {
+      "name": "L 60 Ow 1",
+      "lat": 50.880634,
+      "lon": 4.31565
+    },
+    {
+      "name": "L 60 Ow 12 Zittert Asse",
+      "lat": 50.895451,
+      "lon": 4.229917
+    },
+    {
+      "name": "L 60 Ow 17",
+      "lat": 50.920801,
+      "lon": 4.205083
+    },
+    {
+      "name": "L 60 Ow 17",
+      "lat": 50.920917,
+      "lon": 4.204766
+    },
+    {
+      "name": "L 60 Ow 19",
+      "lat": 50.930984,
+      "lon": 4.21415
+    },
+    {
+      "name": "L 60 Ow 27 Bis",
+      "lat": 50.972616,
+      "lon": 4.192743
+    },
+    {
+      "name": "L 60 Ow 29",
+      "lat": 50.981271,
+      "lon": 4.170602
+    },
+    {
+      "name": "L 60 Ow 3",
+      "lat": 50.881834,
+      "lon": 4.299839
+    },
+    {
+      "name": "L 60 Ow 30",
+      "lat": 50.984936,
+      "lon": 4.163756
+    },
+    {
+      "name": "L 60 Ow 30 Stw Op Lebbeke Opwy",
+      "lat": 50.984938,
+      "lon": 4.163756
+    },
+    {
+      "name": "L 60 Ow 31",
+      "lat": 50.990672,
+      "lon": 4.154391
+    },
+    {
+      "name": "L 60 Ow 31 Kl.A'Werpenst Lebbe",
+      "lat": 50.990672,
+      "lon": 4.154391
+    },
+    {
+      "name": "L 60 Ow 32",
+      "lat": 50.995218,
+      "lon": 4.14778
+    },
+    {
+      "name": "L 60 Ow 33 Langest Lebbeke",
+      "lat": 50.999119,
+      "lon": 4.146317
+    },
+    {
+      "name": "L 60 Ow 34",
+      "lat": 51.001584,
+      "lon": 4.139638
+    },
+    {
+      "name": "L 60 Ow 35",
+      "lat": 51.005103,
+      "lon": 4.133949
+    },
+    {
+      "name": "L 60 Ow 35",
+      "lat": 51.004347,
+      "lon": 4.1337
+    },
+    {
+      "name": "L 60 Ow 35 Lebbeke Stationstr",
+      "lat": 51.004346,
+      "lon": 4.1337
+    },
+    {
+      "name": "L 60 Ow 36",
+      "lat": 51.014501,
+      "lon": 4.124122
+    },
+    {
+      "name": "L 60 Ow 37 Vlietbergst D'mond",
+      "lat": 51.018088,
+      "lon": 4.121586
+    },
+    {
+      "name": "L 60 Ow 37 Vlietbergst D'monde",
+      "lat": 51.018088,
+      "lon": 4.121586
+    },
+    {
+      "name": "L 60 Ow 38 Buisst.D'MONDE",
+      "lat": 51.021506,
+      "lon": 4.118528
+    },
+    {
+      "name": "L 60 Ow 8",
+      "lat": 50.892401,
+      "lon": 4.268983
+    },
+    {
+      "name": "L 60 Ow36 Haagstraat St.Gilli",
+      "lat": 51.014468,
+      "lon": 4.124283
+    },
+    {
+      "name": "L 60 Ow36 Haagstraat St.Gillis",
+      "lat": 51.014467,
+      "lon": 4.124283
+    }
+  ],
+  "L 66 - 66A Brugge Kortrijk": [
+    {
+      "name": "L 66 Den Appel",
+      "lat": 50.82666,
+      "lon": 3.254034
+    },
+    {
+      "name": "L 66 Izegem Station",
+      "lat": 50.920901,
+      "lon": 3.214617
+    },
+    {
+      "name": "L 66 Ow 104",
+      "lat": 50.91557,
+      "lon": 3.254203
+    },
+    {
+      "name": "L 66 Ow 105",
+      "lat": 50.913568,
+      "lon": 3.255673
+    },
+    {
+      "name": "L 66 waterzuivering SSV",
+      "lat": 50.915214,
+      "lon": 3.24906
+    },
+    {
+      "name": "L 66 Ow 106",
+      "lat": 50.909402,
+      "lon": 3.255883
+    },
+    {
+      "name": "L 66 Ow 107",
+      "lat": 50.904565,
+      "lon": 3.25499
+    },
+    {
+      "name": "L 66 Ow 108",
+      "lat": 50.900382,
+      "lon": 3.253967
+    },
+    {
+      "name": "L 66 Ow 111",
+      "lat": 50.890808,
+      "lon": 3.251521
+    },
+    {
+      "name": "L 66 Ow 112",
+      "lat": 50.885482,
+      "lon": 3.250246
+    },
+    {
+      "name": "L 66 Ow 116 St-katriensteenweg",
+      "lat": 50.871551,
+      "lon": 3.247133
+    },
+    {
+      "name": "L 66 Ow 118",
+      "lat": 50.868034,
+      "lon": 3.246117
+    },
+    {
+      "name": "L 66 Ow 119",
+      "lat": 50.864901,
+      "lon": 3.245033
+    },
+    {
+      "name": "L 66 Ow 120",
+      "lat": 50.860951,
+      "lon": 3.244283
+    },
+    {
+      "name": "L 66 Ow 123",
+      "lat": 50.857216,
+      "lon": 3.24324
+    },
+    {
+      "name": "L 66 Ow 124",
+      "lat": 50.848384,
+      "lon": 3.24095
+    },
+    {
+      "name": "L 66 Ow 125",
+      "lat": 50.844834,
+      "lon": 3.240417
+    },
+    {
+      "name": "L 66 Ow 125",
+      "lat": 50.844834,
+      "lon": 3.240417
+    },
+    {
+      "name": "L 66 Ow 126",
+      "lat": 50.837684,
+      "lon": 3.240067
+    },
+    {
+      "name": "L 66 Ow 126",
+      "lat": 50.837686,
+      "lon": 3.240067
+    },
+    {
+      "name": "L 66 Ow 129",
+      "lat": 50.831575,
+      "lon": 3.245656
+    },
+    {
+      "name": "L 66 Ow 53 Sneppestraat Torhout",
+      "lat": 51.036762,
+      "lon": 3.114466
+    },
+    {
+      "name": "L 66 Ow 73",
+      "lat": 50.964659,
+      "lon": 3.126578
+    },
+    {
+      "name": "L 66 Ow 80 Herderstraat Roesel",
+      "lat": 50.939784,
+      "lon": 3.143083
+    },
+    {
+      "name": "L 66 Ow 83",
+      "lat": 50.939716,
+      "lon": 3.143098
+    },
+    {
+      "name": "L 66 Ow113 Kwadestr Lendelede",
+      "lat": 50.879401,
+      "lon": 3.248917
+    },
+    {
+      "name": "L 66 Roeselare Betonwerf Infra",
+      "lat": 50.952351,
+      "lon": 3.131783
+    },
+    {
+      "name": "L 66A ANZEGEM STATION",
+      "lat": 50.826434,
+      "lon": 3.49295
+    },
+    {
+      "name": "L 66A Driesstraat Wortegem-petegem",
+      "lat": 50.831303,
+      "lon": 3.539174
+    },
+    {
+      "name": "L 66A Ow 99 Anzegem Belsbruggestraat",
+      "lat": 50.828984,
+      "lon": 3.4798
+    },
+    {
+      "name": "L 66A Ow Oudenaarde Kortrijkstraat",
+      "lat": 50.845165,
+      "lon": 3.579564
+    },
+    {
+      "name": "L 66A Ow Vichte Antoniusstraat",
+      "lat": 50.832754,
+      "lon": 3.42634
+    }
+  ],
+  "L 69 Kortrijk Poperinge": [
+    {
+      "name": "L 69 0w 5",
+      "lat": 50.825617,
+      "lon": 3.22405
+    },
+    {
+      "name": "L 69 Ieper Goederenkoer",
+      "lat": 50.844817,
+      "lon": 2.8797
+    },
+    {
+      "name": "L 69 Moeskroensesteenweg",
+      "lat": 50.778898,
+      "lon": 3.230811
+    },
+    {
+      "name": "L 69 Ow 4 Heulsestr Bissegem",
+      "lat": 50.827667,
+      "lon": 3.229483
+    },
+    {
+      "name": "L 69 Ow 52",
+      "lat": 50.781051,
+      "lon": 3.031483
+    },
+    {
+      "name": "L 69 Ow 63",
+      "lat": 50.771151,
+      "lon": 2.99335
+    },
+    {
+      "name": "L 69 Ow 64",
+      "lat": 50.775434,
+      "lon": 2.98465
+    },
+    {
+      "name": "L 69 Ow 68",
+      "lat": 50.780767,
+      "lon": 2.97555
+    },
+    {
+      "name": "L 69 Ow 70",
+      "lat": 50.786784,
+      "lon": 2.966667
+    },
+    {
+      "name": "L 69 Ow 76",
+      "lat": 50.832367,
+      "lon": 2.914433
+    },
+    {
+      "name": "L 69 Ow 78",
+      "lat": 50.833919,
+      "lon": 2.905654
+    },
+    {
+      "name": "L 69 Ow 79",
+      "lat": 50.828201,
+      "lon": 2.919967
+    },
+    {
+      "name": "L 69 Ow 81 En 82",
+      "lat": 50.837348,
+      "lon": 2.887412
+    },
+    {
+      "name": "L 69 Ow 87",
+      "lat": 50.851357,
+      "lon": 2.859535
+    },
+    {
+      "name": "L 69 Ow74",
+      "lat": 50.797417,
+      "lon": 2.955183
+    },
+    {
+      "name": "L 69 Poperinge Koer",
+      "lat": 50.854134,
+      "lon": 2.736983
+    },
+    {
+      "name": "L 69 Vlamertinge Hugo Verrieststr.",
+      "lat": 50.853403,
+      "lon": 2.824127
+    }
+  ],
+  "L 73 Deinze De Panne": [
+    {
+      "name": "L 73 L66 Koer Lichtervelde",
+      "lat": 51.027237,
+      "lon": 3.124195
+    },
+    {
+      "name": "L 73 Lichtervelde Station",
+      "lat": 51.024267,
+      "lon": 3.1278
+    },
+    {
+      "name": "L 73 Ow 10 Keibosstr Aarsele",
+      "lat": 50.985601,
+      "lon": 3.40655
+    },
+    {
+      "name": "L 73 Ow 14",
+      "lat": 50.988784,
+      "lon": 3.373217
+    },
+    {
+      "name": "L 73 OW 15 Wielmakersstraat Ti",
+      "lat": 50.990003,
+      "lon": 3.36265
+    },
+    {
+      "name": "L 73 OW 15 Wielmakersstraat Tie",
+      "lat": 50.990001,
+      "lon": 3.36265
+    },
+    {
+      "name": "L 73 Ow 16",
+      "lat": 50.992084,
+      "lon": 3.34345
+    },
+    {
+      "name": "L 73 OW 18 Abeelstr Tielt",
+      "lat": 50.986367,
+      "lon": 3.322683
+    },
+    {
+      "name": "L 73 OW 19 Meulebeeksestw Tiel",
+      "lat": 50.982517,
+      "lon": 3.313333
+    },
+    {
+      "name": "L 73 OW 19 Meulebeeksestw Tielt",
+      "lat": 50.982517,
+      "lon": 3.313333
+    },
+    {
+      "name": "L 73 Ow 20 St Amandstraat",
+      "lat": 50.982367,
+      "lon": 3.305167
+    },
+    {
+      "name": "L 73 Ow 22",
+      "lat": 50.984751,
+      "lon": 3.292533
+    },
+    {
+      "name": "L 73 Ow 53",
+      "lat": 51.022002,
+      "lon": 3.015133
+    },
+    {
+      "name": "L 73 Ow 54",
+      "lat": 51.020939,
+      "lon": 3.004074
+    },
+    {
+      "name": "L 73 Ow 55",
+      "lat": 51.019801,
+      "lon": 2.997122
+    },
+    {
+      "name": "L 73 OW 65",
+      "lat": 51.020964,
+      "lon": 2.941758
+    },
+    {
+      "name": "L 73 Ow 69",
+      "lat": 51.025805,
+      "lon": 2.923843
+    },
+    {
+      "name": "L 73 Ow 73",
+      "lat": 51.028962,
+      "lon": 2.909933
+    },
+    {
+      "name": "L 73 Ow 74",
+      "lat": 51.030696,
+      "lon": 2.90196
+    },
+    {
+      "name": "L 73 Ow 77",
+      "lat": 51.03304,
+      "lon": 2.88553
+    },
+    {
+      "name": "L 73 Tabakstraat Wontergem",
+      "lat": 50.982567,
+      "lon": 3.436817
+    }
+  ],
+  "L 75 Gent Moeskroen": [
+    {
+      "name": "L 75 De Klokke",
+      "lat": 50.819101,
+      "lon": 3.247
+    },
+    {
+      "name": "L 75 Den Trap",
+      "lat": 50.826116,
+      "lon": 3.279148
+    },
+    {
+      "name": "L 75 Ex. Ow 51 Waalstraat",
+      "lat": 50.916892,
+      "lon": 3.453169
+    },
+    {
+      "name": "L 75 Jaguar",
+      "lat": 50.834438,
+      "lon": 3.290503
+    },
+    {
+      "name": "L 75 Nieuwe Brug",
+      "lat": 50.910672,
+      "lon": 3.447404
+    },
+    {
+      "name": "L 75 Ow 104",
+      "lat": 50.808689,
+      "lon": 3.225285
+    },
+    {
+      "name": "L 75 Ow 109",
+      "lat": 50.789446,
+      "lon": 3.202291
+    },
+    {
+      "name": "L 75 Ow 114",
+      "lat": 50.765886,
+      "lon": 3.221038
+    },
+    {
+      "name": "L 75 Ow 117",
+      "lat": 50.758221,
+      "lon": 3.225009
+    },
+    {
+      "name": "L 75 Ow 18",
+      "lat": 50.98932,
+      "lon": 3.607767
+    },
+    {
+      "name": "L 75 Ow 26",
+      "lat": 50.982906,
+      "lon": 3.565395
+    },
+    {
+      "name": "L 75 Ow 27",
+      "lat": 50.982127,
+      "lon": 3.56161
+    },
+    {
+      "name": "L 75 Ow 33",
+      "lat": 50.9693,
+      "lon": 3.519473
+    },
+    {
+      "name": "L 75 Ow 35",
+      "lat": 50.960848,
+      "lon": 3.509553
+    },
+    {
+      "name": "L 75 Ow 35",
+      "lat": 50.961104,
+      "lon": 3.509207
+    },
+    {
+      "name": "L 75 Ow 38",
+      "lat": 50.951393,
+      "lon": 3.497858
+    },
+    {
+      "name": "L 75 Ow 39",
+      "lat": 50.948384,
+      "lon": 3.494186
+    },
+    {
+      "name": "L 75 Ow 40",
+      "lat": 50.944228,
+      "lon": 3.488674
+    },
+    {
+      "name": "L 75 Ow 44",
+      "lat": 50.934042,
+      "lon": 3.476099
+    },
+    {
+      "name": "L 75 Ow 47",
+      "lat": 50.9255,
+      "lon": 3.4658
+    },
+    {
+      "name": "L 75 Ow 49",
+      "lat": 50.919595,
+      "lon": 3.459228
+    },
+    {
+      "name": "L 75 Paal 40",
+      "lat": 50.739552,
+      "lon": 3.226459
+    },
+    {
+      "name": "L 75 Pijkstraat Seinen Na FVG",
+      "lat": 50.886665,
+      "lon": 3.41245
+    },
+    {
+      "name": "L 75 R-F. 6 En RX-F. 6",
+      "lat": 50.968115,
+      "lon": 3.517365
+    },
+    {
+      "name": "L 75 Sein MK37",
+      "lat": 50.750292,
+      "lon": 3.228521
+    },
+    {
+      "name": "L 75 Slekkeput Oprij",
+      "lat": 50.894018,
+      "lon": 3.426918
+    },
+    {
+      "name": "L 75 Leemput Oprijplaats",
+      "lat": 50.878734,
+      "lon": 3.378745
+    },
+    {
+      "name": "L 75 Werfkeet Deinze",
+      "lat": 50.978806,
+      "lon": 3.541856
+    },
+    {
+      "name": "L 75 Spoorwegstraat",
+      "lat": 50.835479,
+      "lon": 3.29159
+    },
+    {
+      "name": "L 75 Vennestraat Kortrijk",
+      "lat": 50.832106,
+      "lon": 3.287098
+    },
+    {
+      "name": "L 75 Waregem Lentedre DX-V en DW-V",
+      "lat": 50.898048,
+      "lon": 3.433668
+    },
+    {
+      "name": "L 75 Waregem Stationsparking",
+      "lat": 50.892164,
+      "lon": 3.423838
+    },
+    {
+      "name": "L 75 Zandberg",
+      "lat": 50.836101,
+      "lon": 3.292517
+    },
+    {
+      "name": "L 75 Zandberg BVL 38/25 - 38/26",
+      "lat": 50.83932,
+      "lon": 3.295834
+    },
+    {
+      "name": "L 75 TWaalfapostelenstraat Sint-Denijs-Westrem",
+      "lat": 51.019426,
+      "lon": 3.678044
+    }
+  ],
+  "L 86 De Pinte Ronse": [
+    {
+      "name": "L 86 Ow 26",
+      "lat": 50.747119,
+      "lon": 3.614385
+    },
+    {
+      "name": "L 86 Ow 27",
+      "lat": 50.752275,
+      "lon": 3.623453
+    },
+    {
+      "name": "L 86 Ow 28",
+      "lat": 50.757488,
+      "lon": 3.629836
+    },
+    {
+      "name": "L 86 Ow 29",
+      "lat": 50.780424,
+      "lon": 3.619025
+    },
+    {
+      "name": "L 86 Ow 31",
+      "lat": 50.785361,
+      "lon": 3.619991
+    },
+    {
+      "name": "L 86 Ow 32",
+      "lat": 50.793042,
+      "lon": 3.620816
+    },
+    {
+      "name": "L 86 Ow 33",
+      "lat": 50.79677,
+      "lon": 3.620321
+    },
+    {
+      "name": "L 86 Ow 34",
+      "lat": 50.800542,
+      "lon": 3.619543
+    },
+    {
+      "name": "L 86 Ow 37",
+      "lat": 50.821135,
+      "lon": 3.613792
+    },
+    {
+      "name": "L 86 Ow 78",
+      "lat": 50.93174,
+      "lon": 3.639007
+    },
+    {
+      "name": "L 86 Ow 80",
+      "lat": 50.937353,
+      "lon": 3.636672
+    },
+    {
+      "name": "L 86 Ow 87",
+      "lat": 50.949209,
+      "lon": 3.631812
+    },
+    {
+      "name": "L 86 Ow 92",
+      "lat": 50.960458,
+      "lon": 3.628018
+    },
+    {
+      "name": "L 86 Ow 94",
+      "lat": 50.966167,
+      "lon": 3.62835
+    },
+    {
+      "name": "L 86 Ow 95",
+      "lat": 50.969771,
+      "lon": 3.629956
+    },
+    {
+      "name": "L 86 Ow 98",
+      "lat": 50.97625,
+      "lon": 3.632906
+    },
+    {
+      "name": "L 86 Ow 100",
+      "lat": 50.981873,
+      "lon": 3.635459
+    },
+    {
+      "name": "L 86 Ronse Stationstraat",
+      "lat": 50.7425463,
+      "lon": 3.6015552
+    }
+  ],
+  "L 96 - 96E Brussel Frankrijk": [
+    {
+      "name": "L 96 Ruisbroek Station",
+      "lat": 50.791329,
+      "lon": 4.295352
+    },
+    {
+      "name": "L 96 Ruisbroek Vorming-Emile Path?",
+      "lat": 50.800574,
+      "lon": 4.303743
+    },
+    {
+      "name": "L 96E Jozef Huysmansstraat",
+      "lat": 50.769237,
+      "lon": 4.277022
+    },
+    {
+      "name": "L 96E Oprijplaats Lot",
+      "lat": 50.765641,
+      "lon": 4.271163
+    },
+    {
+      "name": "L 96E Vaartweg Beersel",
+      "lat": 50.769893,
+      "lon": 4.276302
+    }
+  ],
+  "Overige": [
+    {
+      "name": "Blok 1 Infrabel",
+      "lat": 51.249531,
+      "lon": 4.230892
+    },
+    {
+      "name": "Blok 10",
+      "lat": 50.771438,
+      "lon": 3.872919
+    },
+    {
+      "name": "Blok 19 Dendermonde",
+      "lat": 51.021454,
+      "lon": 4.093952
+    },
+    {
+      "name": "Blok 9",
+      "lat": 51.289383,
+      "lon": 4.378857
+    },
+    {
+      "name": "Blok Dendermonde",
+      "lat": 51.021018,
+      "lon": 4.09415
+    },
+    {
+      "name": "Blok Etterbeek",
+      "lat": 50.815166,
+      "lon": 4.402195
+    },
+    {
+      "name": "Blok Ieper",
+      "lat": 50.848153,
+      "lon": 2.877559
+    },
+    {
+      "name": "Blok Lokeren",
+      "lat": 51.106884,
+      "lon": 3.98625
+    },
+    {
+      "name": "Blok Oudenaarde",
+      "lat": 50.848429,
+      "lon": 3.599919
+    },
+    {
+      "name": "Bundel Berendrecht",
+      "lat": 51.317881,
+      "lon": 4.32841
+    },
+    {
+      "name": "Bundel Schaarbeek B-Zuid",
+      "lat": 50.880856,
+      "lon": 4.38375
+    },
+    {
+      "name": "Bundel Schijnpoort",
+      "lat": 51.226551,
+      "lon": 4.4399
+    },
+    {
+      "name": "Bundel Zandvliet",
+      "lat": 51.333942,
+      "lon": 4.333053
+    },
+    {
+      "name": "Lci Oostende",
+      "lat": 51.223101,
+      "lon": 2.930044
+    },
+    {
+      "name": "Lci Gent",
+      "lat": 51.039485,
+      "lon": 3.698939
+    },
+    {
+      "name": "Bundel Ruisbroek",
+      "lat": 50.800765,
+      "lon": 4.303755
+    },
+    {
+      "name": "Bundel A1 Antwerpen",
+      "lat": 51.294048,
+      "lon": 4.391872
+    },
+    {
+      "name": "Bundel B2 Antwerpen",
+      "lat": 51.29755,
+      "lon": 4.375392
+    },
+    {
+      "name": "Machinisten lokaal Antwerpen Noord",
+      "lat": 51.290773,
+      "lon": 4.386993
+    },
+    {
+      "name": "Brussel Noord toegang",
+      "lat": 50.862452,
+      "lon": 4.36151
+    },
+    {
+      "name": "Brussel Zuid parking Infrabel",
+      "lat": 50.835858,
+      "lon": 4.332993
+    }
+  ],
+  "Wart": [
+    {
+      "name": "L 27 Wart bundel A1 antwerpen",
+      "lat": 51.286772,
+      "lon": 4.424858
+    },
+    {
+      "name": "Wart bundel A1 antwerpen",
+      "lat": 51.286772,
+      "lon": 4.424858
+    }
+  ],
+  "Werfketen": [
+    {
+      "name": "Werfkeet Aalter Loskaai",
+      "lat": 51.092833,
+      "lon": 3.444144
+    },
+    {
+      "name": "Werfkeet Dendermonde",
+      "lat": 51.023454,
+      "lon": 4.105222
+    },
+    {
+      "name": "Werfkeet Aalter Nieuwendam",
+      "lat": 51.097955,
+      "lon": 3.417453
+    },
+    {
+      "name": "Werfkeet Beernem",
+      "lat": 51.1278038,
+      "lon": 3.3275952
+    },
+    {
+      "name": "Werfkeet Berlaar",
+      "lat": 51.114474,
+      "lon": 4.637363
+    },
+    {
+      "name": "Werfkeet Brugge Palingstraat",
+      "lat": 51.234681,
+      "lon": 3.2058
+    },
+    {
+      "name": "Werfkeet Deinze",
+      "lat": 50.978807,
+      "lon": 3.541867
+    },
+    {
+      "name": "Werfkeet Etterbeek",
+      "lat": 50.815338,
+      "lon": 4.404892
+    },
+    {
+      "name": "Werfkeet Gelrode",
+      "lat": 50.968156,
+      "lon": 4.787315
+    },
+    {
+      "name": "Werfkeet Kepi",
+      "lat": 50.822784,
+      "lon": 4.319131
+    },
+    {
+      "name": "Werfkeet Kortemark",
+      "lat": 51.025267,
+      "lon": 3.047643
+    },
+    {
+      "name": "Werfkeet Kortrijk",
+      "lat": 50.814789,
+      "lon": 3.239502
+    },
+    {
+      "name": "Werfkeet leuven",
+      "lat": 50.884743,
+      "lon": 4.715609
+    },
+    {
+      "name": "Werfkeet Machelen",
+      "lat": 50.900716,
+      "lon": 4.427602
+    },
+    {
+      "name": "Werfkeet Mechelen Douaneplein",
+      "lat": 51.0258408,
+      "lon": 4.4920889
+    },
+    {
+      "name": "Werfkeet Melle",
+      "lat": 51.008385,
+      "lon": 3.788245
+    },
+    {
+      "name": "Werfkeet Oostkamp",
+      "lat": 51.154769,
+      "lon": 3.257468
+    },
+    {
+      "name": "Werfkeet Pci",
+      "lat": 50.891646,
+      "lon": 4.414436
+    },
+    {
+      "name": "Werfkeet Wipstraat L 35",
+      "lat": 50.968156,
+      "lon": 4.787282
+    },
+    {
+      "name": "Werfkeet Zeebruge",
+      "lat": 51.271924,
+      "lon": 3.20305
+    },
+    {
+      "name": "Werfkeet Kuurne",
+      "lat": 50.871569,
+      "lon": 3.247034
+    },
+    {
+      "name": "Werfkeet Schaarbeek brug",
+      "lat": 50.880947,
+      "lon": 4.383707
+    },
+    {
+      "name": "Werfkeet Schaarbeek nieuwe toegang",
+      "lat": 50.900381,
+      "lon": 4.406914
+    },
+    {
+      "name": "Werfkeet Kennedytunnel",
+      "lat": 51.211689,
+      "lon": 4.376638
+    },
+    {
+      "name": "Werfkeet Wezemaal",
+      "lat": 50.95371,
+      "lon": 4.749797
+    },
+    {
+      "name": "Werfkeet Herentals",
+      "lat": 51.181819,
+      "lon": 4.82792
+    },
+    {
+      "name": "Werfkeet Sint-Katelijne-Waver",
+      "lat": 51.057265,
+      "lon": 4.495268
+    },
+    {
+      "name": "Werfkeet Malderen",
+      "lat": 51.015081,
+      "lon": 4.234732
+    },
+    {
+      "name": "Werfkeet Boom",
+      "lat": 51.098163,
+      "lon": 4.363091
+    },
+    {
+      "name": "Werfkeet Olen",
+      "lat": 51.151333,
+      "lon": 4.908101
+    },
+    {
+      "name": "Werfkeet Zandvliet",
+      "lat": 51.366919,
+      "lon": 4.306878
+    }
+  ]
+}
