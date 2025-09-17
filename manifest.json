@@ -1,0 +1,13 @@
+{
+  "name": "VBUW Locations",
+  "short_name": "VBUW",
+  "start_url": "/vbuw-locations/",
+  "scope": "/vbuw-locations/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    { "src": "/vbuw-locations/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/vbuw-locations/icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

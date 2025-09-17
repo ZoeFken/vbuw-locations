@@ -6,6 +6,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>GPS-links naar Waze of Google Maps</title>
   <link rel="stylesheet" href="style.css">
+  <link rel="manifest" href="/vbuw-locations/manifest.json">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="apple-touch-icon" href="/vbuw-locations/icons/icon-192.png">
 </head>
 <body>
   <h1>🚗 GPS-links</h1>
@@ -22,4 +25,12 @@
   <div id="container"></div>
   <script src="script.js"></script>
 </body>
+<script>
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    // Let op: relatieve pad + scope voor subfolder
+    navigator.serviceWorker.register('/vbuw-locations/service-worker.js', { scope: '/vbuw-locations/' });
+  });
+}
+</script>
 </html>
