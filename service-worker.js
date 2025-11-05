@@ -1,5 +1,5 @@
 // bump dit bij elke wijziging
-const CACHE_NAME = 'vbuw-locations-v4';
+const CACHE_NAME = 'vbuw-locations-v5';
 const ASSETS = [
   '/vbuw-locations/',
   '/vbuw-locations/index.html',

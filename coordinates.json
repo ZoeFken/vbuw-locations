@@ -792,6 +792,23 @@
       "lon": 5.473938
     }
   ],
+  "L 25 Antwerpen Brussel": [
+    {
+      "name": "L 25 Oprijplaats Berchem Stadion",
+      "lat": 51.189325, 
+      "lon": 4.440821
+    },
+    {
+      "name": "L 25 Toegang Blok 12",
+      "lat": 51.196612,
+      "lon": 4.433182
+    },
+    {
+      "name": "L 25 Toegang LCI Berchem",
+      "lat": 51.202399, 
+      "lon": 4.430119
+    }
+  ],
   "L 26 Schaarbeek Halle": [
     {
       "name": "L 26 Aardi Kant Huizinging",
