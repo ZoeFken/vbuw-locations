@@ -1081,39 +1081,59 @@
   ],
   "L 36 Brussel Luik": [
     {
-      "name": "L 36 Erps-KWERPS Kerselarenlaan",
+      "name": "Erps-KWERPS Kerselarenlaan",
       "lat": 50.896934,
       "lon": 4.583467
     },
     {
-      "name": "L 36 Herent KP 25000",
+      "name": "KP 25000",
       "lat": 50.904151,
       "lon": 4.688183
     },
     {
-      "name": "L 36 Herent Kp 26300",
+      "name": "Kp 26300",
       "lat": 50.901501,
       "lon": 4.702983
     },
     {
-      "name": "L 36 Herent Station",
+      "name": "Herent Station",
       "lat": 50.903317,
       "lon": 4.67345
     },
     {
-      "name": "L 36 Neerijsestraat 16 Veltem",
+      "name": "Neerijsestraat 16 Veltem",
       "lat": 50.900865,
       "lon": 4.6414827
     },
     {
-      "name": "L 36 Rijkestraat 16",
+      "name": "Rijkestraat 16",
       "lat": 50.901332,
       "lon": 4.64035
     },
     {
-      "name": "L 36 Stationsstr & Rijkestr Veltem",
+      "name": "Stationsstr & Rijkestr Veltem",
       "lat": 50.900579,
       "lon": 4.631884
+    },
+    {
+      "name": "OW 53",
+      "lat": 50.763740,
+      "lon": 5.037287
+    },
+    {
+      "name": "OW 50",
+      "lat": 50.774492, 
+      "lon": 4.990586
+    },
+    {
+      "name": "OW 49",
+      "lat": 50.789007,
+      "lon":  4.961345
+    },
+    {
+      "name": "OW 48",
+      "lat": 50.792752, 
+      "lon": 4.952302
     }
   ],
   "L 50 Brussel Gent": [
