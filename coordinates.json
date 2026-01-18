@@ -199,6 +199,11 @@
       "lon": 4.539188
     },
     {
+      "name": "L15/1 D-J.12",
+      "lat": 51.178237,
+      "lon": 4.473191
+    },
+    {
       "name": "L15 OW 014",
       "lat": 51.137813,
       "lon": 4.54434
@@ -883,11 +888,31 @@
       "lon": 4.491945
     }
   ],
-  "L 27 Brussel Antwerpen": [
+  "L 27 - 27A Brussel Antwerpen": [
     {
       "name": "L 27 Bechem Y-stadion",
       "lat": 51.189817,
       "lon": 4.441069
+    },
+    { 
+      "name": "L 27A Recyclage LCI Berchem",
+      "lat": 51.194065,
+      "lon": 4.438551
+    },
+    {
+      "name": "L 27 Boortmeerbeek Station",
+      "lat": 50.994659,
+      "lon": 4.56701
+    },
+    {
+      "name": "L 27 Duffel Station",
+      "lat": 51.056755,
+      "lon": 4.572429
+    },
+    {
+      "name": "L 27 Eppegem Station",
+      "lat": 50.959828,
+      "lon": 4.459136
     },
     {
       "name": "L 27 Eppegem",
