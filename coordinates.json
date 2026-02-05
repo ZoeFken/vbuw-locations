@@ -873,9 +873,19 @@
       "lon": 4.908101
     },
     {
+      "name": "L27B FX-F.5 - E-F.5 Weerde",
+      "lat": 50.979915, 
+      "lon": 4.476010
+    },
+    {
       "name": "L27B Eikestraat oprijplaats",
       "lat": 50.990063,
       "lon": 4.501613
+    },
+    {
+      "name": "L27B Y.Prinsenhoek kanaalbrug",
+      "lat": 50.996920, 
+      "lon": 4.519803
     },
     {
       "name": "Oprijplaats Duivenstraat",
