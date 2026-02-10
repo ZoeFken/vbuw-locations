@@ -3132,6 +3132,11 @@
       "name": "Werfkeet Zandvliet",
       "lat": 51.366919,
       "lon": 4.306878
+    },
+    {
+      "name": "Werfkeet Kontich-Lint",
+      "lat": 51.137207, 
+      "lon": 4.475135
     }
   ]
 }
