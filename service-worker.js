@@ -1,5 +1,5 @@
 const APP_SCOPE = '/vbuw-locations';
-const CACHE_VERSION = 'v14';
+const CACHE_VERSION = 'v15';
 const STATIC_CACHE = `vbuw-static-${CACHE_VERSION}`;
 const RUNTIME_CACHE = `vbuw-runtime-${CACHE_VERSION}`;
 const OFFLINE_PAGE = `${APP_SCOPE}/index.html`;
