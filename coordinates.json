@@ -1438,6 +1438,26 @@
       "name": "L 50A Seinen MX-N.6 en N-N.6",
       "lat": 51.045286,
       "lon": 3.665133
+    },
+    {
+      "name": "L 50A Stockage wetteren",
+      "lat": 50.965519, 
+      "lon": 3.869995
+    },
+    {
+      "name": "L 50A SPA Oprijplaatsen oudenhoek",
+      "lat": 50.967619,
+      "lon": 3.860622
+    },
+    {
+      "name": "L 50A SPA oprijplaats Westremstraat",
+      "lat": 50.966881,
+      "lon": 3.862486
+    },
+    {
+      "name": "L 50A SPB oprijplaats Stichelendries",
+      "lat": 50.959033,
+      "lon": 3.887067
     }
   ],
   "L 51 Brugge Blankenberge": [
@@ -3157,6 +3177,11 @@
       "name": "Werfkeet Hasselt",
       "lat": 50.931701,
       "lon": 5.318090
+    },
+    {
+      "name": "Werfkeet Oordegem",
+      "lat": 50.956229,
+      "lon": 3.895769
     }
   ]
 }
